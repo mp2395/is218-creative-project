@@ -103,3 +103,8 @@ Next: Review these choices, publish the documentation, complete a real peer walk
 ## AI assistance and limits
 
 ChatGPT helped research original documentation, draft the plan, create the static page, and propose checks. AI did not interview students or run the future application. Megha must review source claims and explain the selected design. The chosen idea and proposed limits are draft decisions until she reviews them. Expectation: faster organization; observed result: draft documentation and source comparisons; next time: define independent expected results before asking AI to suggest tests.
+
+
+## Review 2 — First working slice — November 20, 2026
+
+Implemented in the prepared source: Flask registration/sign-in/sign-out, server-owned study entry, SQLite storage, record reopening, minimal private list and totals. Exact test evidence and limits: [CHECKS.md](CHECKS.md). Pattern trial: [PATTERN-EXPERIMENT.md](PATTERN-EXPERIMENT.md). Run instructions: [README.md](README.md). The research site remains index.html. The local application starts with python app.py after dependency installation. Account display-name/password maintenance remains future work. This update supersedes historical statements that no application exists. Code/tests were generated and executed with ChatGPT; student explanation and real peer retry are not established.
