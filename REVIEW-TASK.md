@@ -12,7 +12,7 @@ Reviewer: Ana Sanchez
 Feedback received: Ana reported that everything she tried worked
 and she did not identify an issue.
 
-Review method and tasks tried: everything was successful no glitches!
+Review method and tasks tried: Everything was successful no glitches!
 
 GitHub review issue: No Issue
 No change or reviewer retry resulted from this feedback.
